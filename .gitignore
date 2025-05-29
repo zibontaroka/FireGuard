@@ -1,0 +1,38 @@
+# Compiled object files
+*.o
+*.a
+*.bin
+*.elf
+*.hex
+
+# Arduino build files
+*.cpp.d
+*.d
+
+# Arduino IDE files
+*.ino.*
+*.bak
+*.log
+*.dmp
+
+# Mac OS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Build folders
+build/
+output/
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# Arduino core
+*.core.*
