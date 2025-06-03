@@ -53,7 +53,7 @@ The system consists of two main components:
 * Buzzer
 * Relay Module (for controlling external devices)
 * 18650 Battery Pack (with holder)
-* Jumper Wires and Breadboard/PCB
+* Jumper Wires and Breadboard
 
 ### Section B
 
@@ -67,7 +67,7 @@ The system consists of two main components:
 * LED (for feedback)
 * Robot Chassis
 * 18650 Battery Pack (with holder)
-* Jumper Wires and Breadboard/PCB
+* Jumper Wires and Breadboard
 
 ## Pin Configuration
 
